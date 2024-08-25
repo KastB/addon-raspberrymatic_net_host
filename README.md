@@ -1,3 +1,10 @@
+# About
+
+This is a copy of https://github.com/jens-maus/RaspberryMatic
+
+The difference is, that it runs in network mode host, so that communication to HMIP-HAP and HmIPW-DRAP becomes possible without any hacks:
+https://github.com/jens-maus/RaspberryMatic/wiki/Installation-HomeAssistant#hmip-haphmipw-drap-support-patch
+
 # Home Assistant Add-on: RaspberryMatic CCU
 
 HomeMatic/homematicIP CCU central based on [RaspberryMatic](raspberrymatic).
